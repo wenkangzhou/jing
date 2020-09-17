@@ -1,0 +1,27 @@
+.page {
+  width: 100vw;
+  height: 100vh;
+  background: transparent
+    url(https://gw.alipayobjects.com/zos/rmsportal/TVYTbAXWheQpRcWDaDMu.svg)
+    no-repeat center;
+  background-size: cover;
+}
+
+.form {
+  width: 300px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -150px;
+  margin-top: -200px;
+}
+
+.title {
+  background-size: 48px;
+  padding-left: 70px;
+  margin-bottom: 25px;
+}
+
+.button {
+  width: 100%;
+}

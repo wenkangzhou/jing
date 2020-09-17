@@ -1,0 +1,6 @@
+@import-normalize;
+
+html {
+  font-family: -apple-system, 'Helvetica Neue', 'Arial', 'PingFang SC',
+    'Hiragino Sans GB', 'Microsoft YaHei', SimSun, san-serif, serif;
+}
